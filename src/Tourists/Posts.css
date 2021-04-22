@@ -1,0 +1,11 @@
+#root {
+	height: 100vh;
+}
+body {
+	background-color: #c3bcaa;
+}
+.posts-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
